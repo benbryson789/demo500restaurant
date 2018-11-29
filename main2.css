@@ -1,0 +1,25 @@
+body {
+   background-image: url("background2.jpg");
+   background-repeat: no-repeat;
+   background-size: 100% 600px;
+   
+}
+
+.horizonal__rule {
+	height: 8px;
+	background-color: #384738;
+	width: 50%;
+}
+
+.footer__rule {
+	text-align: center: 
+	font-style: italic;
+    margin-bottom: 100px;
+	font-color: white;
+	margin: 0 auto;
+}
+
+.content {
+    color: #fff;
+    min-height: 500px;
+}
